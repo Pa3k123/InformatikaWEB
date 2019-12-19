@@ -1,0 +1,19 @@
+body {
+  background-color: #00FA9A;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: calibri;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+}
+
+li {
+	font-family: verdana;
+	font-size: 15px;
+}	
